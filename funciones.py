@@ -15,8 +15,4 @@
 #largo = float(input("ingrese el largo del rectangulo "))
 a#ncho = float(input("ingrese el ancho del rectangulo "))
 
-#print("El area del rectangulo corresponde a ", area_rectangulo(largo, ancho))
-
-#Ejercicio coulomb
-
-KAPPA = 
+print("El area del rectangulo corresponde a ", area_rectangulo(largo, ancho))
